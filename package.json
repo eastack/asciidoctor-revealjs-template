@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@asciidoctor/reveal.js": "^4.1.0",
-    "asciidoctor": "^2.2.1"
+    "asciidoctor": "^2.2.1",
+    "highlightjs": "^9.16.2"
   }
 }

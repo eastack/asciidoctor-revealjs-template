@@ -158,6 +158,11 @@ glob@7.1.3:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
+highlightjs@^9.16.2:
+  version "9.16.2"
+  resolved "https://registry.nlark.com/highlightjs/download/highlightjs-9.16.2.tgz#07ea6cc7c93340fc440734fb7abf28558f1f0fe1"
+  integrity sha1-B+psx8kzQPxEBzT7er8oVY8fD+E=
+
 inflight@^1.0.4:
   version "1.0.6"
   resolved "https://registry.nlark.com/inflight/download/inflight-1.0.6.tgz#49bd6331d7d02d0c09bc910a1075ba8165b56df9"
